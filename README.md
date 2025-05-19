@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rmccurdy268
-- 👀 I like Volleyball and Anime, I have three siblings and I am married. I'm a Senior at BYU
+- 👀 I like Volleyball, I have three siblings and I am married. I'm a Senior at BYU
 - 🌱 I’ve worked in most of the major coding languages from C to Javascript.
 
 <!---
